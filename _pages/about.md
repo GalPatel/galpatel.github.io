@@ -10,4 +10,4 @@ redirect_from:
 
 This is Gal's home on the web!
 
-Lorem ipsum.
+Under construction.
