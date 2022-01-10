@@ -3,10 +3,10 @@ title: "On Neurons Invariant to Sentence Structural Changes in Neural Machine Tr
 collection: publications
 permalink: /publication/2021-10-01-on-neurons-invariant-to-sentence-structural-changes-in-neural-machine-translation
 excerpt: 'This paper is about neuron activation patterns (and control) when meaning-preserving paraphrases are given as input.'
-Under Review
 paperurl: 'https://arxiv.org/abs/2110.03067'
 ---
 This paper is about neuron activation patterns (and control) when meaning-preserving paraphrases are given as input.
+Under review.
 [arXiv](https://arxiv.org/abs/2110.03067)
 
 ## Abstract
