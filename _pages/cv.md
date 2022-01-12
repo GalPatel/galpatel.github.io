@@ -14,9 +14,10 @@ redirect_from:
 Education
 ======
 * M.Sc. in Computer Science, The Hebrew University of Jerusalem, 2018-2021
-  * Supervisor: Prof. Omri Abend
-  * Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
-  * Final M.Sc. grade: **98.2**
+  <br>Supervisor: Prof. Omri Abend
+  
+  Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
+  Final M.Sc. grade: **98.2**
 
 * B.Sc. in Computer Science and Cognitive Science, **magna cum laude**, The Hebrew University of Jerusalem, 2015-2018
   * Member of the **honors program** for distinguished undergraduates in Computer Science
