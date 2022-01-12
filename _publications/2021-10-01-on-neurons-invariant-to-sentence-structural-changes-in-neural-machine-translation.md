@@ -3,7 +3,7 @@ title: "On Neurons Invariant to Sentence Structural Changes in Neural Machine Tr
 collection: publications
 permalink: /publication/2021-10-01-on-neurons-invariant-to-sentence-structural-changes-in-neural-machine-translation
 excerpt: 'This paper is about neuron activation patterns (and control) when meaning-preserving paraphrases are given as input.'
-venue: 'Under Review & BlackboxNLP 2021'
+venue: 'Under Review & BlackboxNLP'
 paperurl: 'https://arxiv.org/abs/2110.03067'
 author: 'Gal Patel, Leshem Choshen and Omri Abend'
 ---
