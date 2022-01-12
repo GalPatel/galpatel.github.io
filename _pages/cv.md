@@ -15,13 +15,12 @@ Education
 ======
 * M.Sc. in Computer Science, The Hebrew University of Jerusalem, 2018-2021
   <br>Supervisor: Prof. Omri Abend
-  
-  Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
-  Final M.Sc. grade: **98.2**
+  <br>Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
+  <br>Final M.Sc. grade: **98.2**
 
 * B.Sc. in Computer Science and Cognitive Science, **magna cum laude**, The Hebrew University of Jerusalem, 2015-2018
-  * Member of the **honors program** for distinguished undergraduates in Computer Science
-  * Course average: **95.7**
+  <br>Member of the **honors program** for distinguished undergraduates in Computer Science
+  <br>Course average: **95.7**
 
 Publications
 ======
@@ -34,9 +33,9 @@ Work Experience
 * Teaching Assistant, Introduction to Machine Learning, The Hebrew University of Jerusalem, 2020
 
 * Research Intern, Lightricks, 2018 - 2020
-  * Implemented and trained a deep learning model (CNN) for hair segmentation
-  * Developed classic image processing algorithms for hair volume and color
-  * Mentored junior interns
+  <br>Implemented and trained a deep learning model (CNN) for hair segmentation
+  <br>Developed classic image processing algorithms for hair volume and color
+  <br>Mentored junior interns
 
 * Research Assistant, Prof. Oron Shagrir, The Hebrew University of Jerusalem, 2016 - 2017
 
