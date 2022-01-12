@@ -9,58 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](files/cv.pdf)
+[PDF version](files/cv.pdf)
 
 Education
 ======
 * M.Sc. in Computer Science, The Hebrew University of Jerusalem, 2018-2021
-Supervisor: Prof. Omri Abend
-Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
-Final M.Sc. grade: **98.2**
+  * Supervisor: Prof. Omri Abend
+  * Thesis on the interpretability of deep learning models in NLP under paraphrased input, included: dataset compilation, representation analysis, manipulation of generated output.
+  * Final M.Sc. grade: **98.2**
 
 * B.Sc. in Computer Science and Cognitive Science, **magna cum laude**, The Hebrew University of Jerusalem, 2015-2018
-Member of the **honors program** for distinguished undergraduates in Computer Science
-Course average: **95.7**
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Member of the **honors program** for distinguished undergraduates in Computer Science
+  * Course average: **95.7**
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Teaching Assistant, Introduction to Machine Learning, The Hebrew University of Jerusalem, 2020
+
+* Research Intern, Lightricks, 2018 - 2020
+  * Implemented and trained a deep learning model (CNN) for hair segmentation
+  * Developed classic image processing algorithms for hair volume and color
+  * Mentored junior interns
+
+* Research Assistant, Prof. Oron Shagrir, The Hebrew University of Jerusalem, 2016 - 2017
+
+* Tech Manager, BIG IDEA international tech summer camps, 2013 - 2015
+
+* E-Learning Developer, The Intelligence Forces, IDF, 2011 - 2013
+
+
+Awards and Distinctions
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Dean’s Award, The Hebrew University, 2019, 2017
+* Excelling students fellowship, The Hebrew University, 2019
+* Scholarship for Outstanding Students, Intel, 2018
+* Cognitive Science Undergraduate Award, The Hebrew University, 2017, 2016
+* Dean’s List, The Hebrew University, 2016
+* Admission Excellence Award, The Hebrew University, 2016
+
   
-Service and leadership
+Extracurricular Activities
 ======
-* Currently signed in to 43 different slack teams
+* Mentor, JerusML Juniors in Machine Learning Program, 2020 – 2021
+* Lecturer, JerusML Deep Learning Course, 2019
+* Instructor, MEET: Middle East Entrepreneurs of Tomorrow, Israeli and Palestinian Youth, 2018 – 2019
+* Instructor, QueenB coding program for young girls, 2017 – 2018
+* Hub Organizer, Google HashCode, 2018
+* Volunteer, EUJS: European Union of Jewish Students, 2017
+* Volunteer, SheCodes, coding for women, 2016 – 2017
