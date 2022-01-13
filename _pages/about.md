@@ -12,4 +12,4 @@ I am a recent graduate of the M.Sc. program in Computer Science at The Hebrew Un
 
 My interests lie between Natural Language Processing and Machine Learning. More specifically, I'm interested in understanding neural networks in NLP, analyzing how linguistic features are learnt and the ability of deep models to capture semantic meaning, especially in comparison to human cognition.
 
-<i>Currently, I'm looking for new research oppurtunities. I'd be happy to talk about research, feel free to reach out!</i>
+<i>Currently, I'm looking for new research oppurtunities. I'd be happy to talk, feel free to reach out!</i>
