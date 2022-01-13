@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](files/cv.pdf)
+[PDF version](files/gal_patel_cv.pdf)
 
 Education
 ======
