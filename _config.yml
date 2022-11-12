@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gal Patel"
-  avatar           : "profile3.jpg"
+  avatar           : "profile_pic.jpg"
   bio              : "NLP Researcher, open for oppurtunities"
   location         : "Tel Aviv, Israel"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "GalNLP"
   vine             :
   weibo            :
   xing             :
