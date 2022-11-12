@@ -30,10 +30,10 @@ Publications
 
 Work Experience
 ======
-* NLP Researcher, Ask-AI
+* NLP Researcher, Ask-AI, 2022 - present
   <br>Research project, working with Prof. Jonathan Berant
 
-* Researcher, Prof. Omri Abend's lab, The Hebrew University of Jerusalem
+* Researcher, Prof. Omri Abend's lab, The Hebrew University of Jerusalem, 2021-2022
   <br>Post-thesis work in the lab, included a project about evaluation methods.
 
 * Researcher, Lightricks, 2018 - 2020
