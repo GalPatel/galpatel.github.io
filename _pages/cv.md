@@ -30,12 +30,18 @@ Publications
 
 Work Experience
 ======
-* Teaching Assistant, Introduction to Machine Learning, The Hebrew University of Jerusalem, 2020
+* NLP Researcher, Ask-AI
+  <br>Research project, working with Prof. Jonathan Berant
 
-* Research Intern, Lightricks, 2018 - 2020
+* Researcher, Prof. Omri Abend's lab, The Hebrew University of Jerusalem
+  <br>Post-thesis work in the lab, included a project about evaluation methods.
+
+* Researcher, Lightricks, 2018 - 2020
   <br>Implemented and trained a deep learning model (CNN) for hair segmentation
   <br>Developed classic image processing algorithms for hair volume and color
   <br>Mentored junior interns
+
+* Teaching Assistant, Introduction to Machine Learning, The Hebrew University of Jerusalem, 2020
 
 * Research Assistant, Prof. Oron Shagrir, The Hebrew University of Jerusalem, 2016 - 2017
 
