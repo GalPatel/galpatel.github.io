@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://galpatel.github.io/files/gal_patel_cv.pdf)
+[PDF version](http://galpatel.github.io/files/Gal_Patel.pdf)
 
 Education
 ======
